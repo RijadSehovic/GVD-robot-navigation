@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_kr/devel
+
+Name: turtlebot_calibration
+Description: Description of turtlebot_calibration
+Version: 2.3.7
+Cflags: -I/home/azra/catkin_ws_kr/devel/include
+Libs: -L/home/azra/catkin_ws_kr/devel/lib 
+Requires: std_msgs message_runtime

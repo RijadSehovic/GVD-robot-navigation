@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_kr/devel
+
+Name: turtlebot_interactive_markers
+Description: Description of turtlebot_interactive_markers
+Version: 2.3.1
+Cflags: 
+Libs: -L/home/azra/catkin_ws_kr/devel/lib 
+Requires: 

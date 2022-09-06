@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_kr/devel
+
+Name: turtlebot_stdr
+Description: Description of turtlebot_stdr
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/azra/catkin_ws_kr/devel/lib 
+Requires: 

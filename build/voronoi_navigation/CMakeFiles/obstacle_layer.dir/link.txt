@@ -1,0 +1,1 @@
+/usr/bin/c++  -fPIC    -shared -Wl,-soname,libobstacle_layer.so -o /home/azra/catkin_ws_kr/devel/lib/libobstacle_layer.so CMakeFiles/obstacle_layer.dir/plugins/obstacle_layer.cpp.o 

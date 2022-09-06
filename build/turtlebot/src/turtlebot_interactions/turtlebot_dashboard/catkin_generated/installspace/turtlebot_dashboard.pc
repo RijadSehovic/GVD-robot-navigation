@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_kr/install
+
+Name: turtlebot_dashboard
+Description: Description of turtlebot_dashboard
+Version: 2.3.1
+Cflags: 
+Libs: -L/home/azra/catkin_ws_kr/install/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/azra/catkin_ws_kr/devel
+
+Name: turtlebot_stage
+Description: Description of turtlebot_stage
+Version: 2.2.3
+Cflags: 
+Libs: -L/home/azra/catkin_ws_kr/devel/lib 
+Requires: 
